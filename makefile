@@ -1,6 +1,6 @@
 CC=g++
 CFLAGS=-O3
-NAME=EarthQuake
+NAME=Gravitation
 
 all:
 	$(CC) $(NAME).cpp -o $(NAME) $(CFLAGS)
